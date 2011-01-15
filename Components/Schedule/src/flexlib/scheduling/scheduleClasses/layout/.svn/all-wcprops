@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout
+END
+Layout.as
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/Layout.as
+END
+BackgroundLayout.as
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/BackgroundLayout.as
+END
+EntryLayoutItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/EntryLayoutItem.as
+END
+VerticalLinesLayoutItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/VerticalLinesLayoutItem.as
+END
+HorizontalLinesLayout.as
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/HorizontalLinesLayout.as
+END
+LayoutUpdateEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/LayoutUpdateEvent.as
+END
+AbstractEntryLayout.as
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/AbstractEntryLayout.as
+END
+ILayoutClient.as
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/ILayoutClient.as
+END
+ILayout.as
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/ILayout.as
+END
+IBackgroundLayout.as
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/IBackgroundLayout.as
+END
+SimpleLayout.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/SimpleLayout.as
+END
+IHorizontalLinesLayout.as
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/IHorizontalLinesLayout.as
+END
+BackgroundLayoutItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/BackgroundLayoutItem.as
+END
+BestFitLayout.as
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/BestFitLayout.as
+END
+ILayoutProvider.as
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/ILayoutProvider.as
+END
+HorizontalLinesLayoutItem.as
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/HorizontalLinesLayoutItem.as
+END
+VerticalLinesLayout.as
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/VerticalLinesLayout.as
+END
+IEntryLayout.as
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/IEntryLayout.as
+END
+IVerticalLinesLayout.as
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/santacruzsoftware_flex/!svn/ver/3/Eleanor/Components/Schedule/src/flexlib/scheduling/scheduleClasses/layout/IVerticalLinesLayout.as
+END

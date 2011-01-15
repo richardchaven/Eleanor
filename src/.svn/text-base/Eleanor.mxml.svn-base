@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute">
+	<mx:ViewStack id="ViewStack" selectedIndex="0" width="674" height="592">
+		<mx:Canvas width="100%" height="100%" id="MainSheet" label="Main">
+			<mx:Label x="10" y="39" text="Upcoming Giftees" width="195" height="30" fontSize="18" fontWeight="bold"/>
+			<mx:Label x="10" y="10" text="Eleanor" width="195" height="30" fontSize="18" fontWeight="bold"/>
+			<mx:TextInput right="10" top="17"/>
+			<mx:ComboBox top="47" right="10"></mx:ComboBox>
+			<mx:AdvancedDataGrid editable="false" enabled="true" id="MainGifteeGrid" top="77" bottom="10" left="10" right="10">
+				<mx:columns>
+					<mx:AdvancedDataGridColumn headerText="Name" dataField="GifteeName"/>
+					<mx:AdvancedDataGridColumn headerText="Occasion/Date" width="120" dataField="col2" textAlign="center" />
+					<mx:AdvancedDataGridColumn headerText="Budget/Gift Type" headerWordWrap="true" width="55" dataField="col3"/>
+					<mx:AdvancedDataGridColumn headerText="Notes" dataField="col3"/>
+					<mx:AdvancedDataGridColumn headerText="Details" width="70" dataField="col3"/>
+				</mx:columns>
+			</mx:AdvancedDataGrid>
+			<mx:Label x="413" y="19" text="Name Search:"/>
+			<mx:Label x="442" y="49" text="Interest:"/>
+		 </mx:Canvas>
+		<mx:Canvas width="100%" height="100%" id="GifteeSheet" label="Giftee Details">
+	
+		</mx:Canvas>
+	</mx:ViewStack>
+</mx:Application>
